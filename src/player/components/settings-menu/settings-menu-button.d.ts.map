@@ -1,0 +1,1 @@
+{"version":3,"file":"settings-menu-button.d.ts","sourceRoot":"","sources":["../../../src/components/settings-menu/settings-menu-button.tsx"],"names":[],"mappings":";AAQA,aAAK,KAAK,GAAG;IACX,QAAQ,CAAC,EAAE,OAAO,CAAC;IACnB,OAAO,CAAC,EAAE,MAAM,IAAI,CAAC;CACtB,CAAC;AAEF,wBAAgB,kBAAkB,CAAC,EAAE,QAAQ,EAAE,OAAO,EAAE,EAAE,KAAK,eAmB9D"}

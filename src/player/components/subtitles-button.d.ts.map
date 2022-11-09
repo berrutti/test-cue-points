@@ -1,0 +1,1 @@
+{"version":3,"file":"subtitles-button.d.ts","sourceRoot":"","sources":["../../src/components/subtitles-button.tsx"],"names":[],"mappings":";AAOA,aAAK,KAAK,GAAG;IACX,QAAQ,CAAC,EAAE,OAAO,CAAC;IACnB,SAAS,CAAC,EAAE,MAAM,CAAC;IACnB,OAAO,CAAC,EAAE,MAAM,IAAI,CAAC;CACtB,CAAC;AAEF,wBAAgB,eAAe,CAAC,EAAE,QAAQ,EAAE,OAAO,EAAE,SAAS,EAAE,EAAE,KAAK,eAgBtE"}

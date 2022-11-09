@@ -1,0 +1,1 @@
+{"version":3,"file":"live-play-button.d.ts","sourceRoot":"","sources":["../../src/components/live-play-button.tsx"],"names":[],"mappings":";AAQA,aAAK,mBAAmB,GAAG;IACzB,SAAS,CAAC,EAAE,MAAM,CAAC;IACnB,SAAS,CAAC,EAAE,OAAO,CAAC;IACpB,OAAO,CAAC,EAAE,MAAM,IAAI,CAAC;CACtB,CAAC;AAEF,wBAAgB,cAAc,CAAC,EAAE,SAAiB,EAAE,OAAO,EAAE,SAAS,EAAE,EAAE,mBAAmB,eAc5F"}

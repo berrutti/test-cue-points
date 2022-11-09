@@ -1,0 +1,1 @@
+{"version":3,"file":"pause.d.ts","sourceRoot":"","sources":["../../src/icons/pause.tsx"],"names":[],"mappings":"AAAA,OAAO,EAAE,qBAAqB,EAAE,MAAM,OAAO,CAAC;AAE9C,aAAK,SAAS,GAAG;IACf,cAAc,CAAC,EAAE,qBAAqB,GAAG,SAAS,CAAC;IACnD,KAAK,CAAC,EAAE,MAAM,CAAC;IACf,MAAM,CAAC,EAAE,MAAM,CAAC;CACjB,CAAC;AAEF,eAAO,MAAM,SAAS,sCAAqD,SAAS,gBAWnF,CAAC"}

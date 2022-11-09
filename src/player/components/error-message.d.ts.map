@@ -1,0 +1,1 @@
+{"version":3,"file":"error-message.d.ts","sourceRoot":"","sources":["../../src/components/error-message.tsx"],"names":[],"mappings":";AAKA,aAAK,KAAK,GAAG;IACX,eAAe,EAAE,MAAM,IAAI,CAAC;IAC5B,UAAU,EAAE,UAAU,CAAC;CACxB,CAAA;AAED,wBAAgB,YAAY,CAAC,EAAE,eAAe,EAAE,UAAU,EAAE,EAAE,KAAK,eAiBlE"}

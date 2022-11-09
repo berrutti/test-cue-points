@@ -1,0 +1,1 @@
+{"version":3,"file":"use-youbora-analytics.d.ts","sourceRoot":"","sources":["../../../../../src/components/player/hooks/analytics/use-youbora-analytics.tsx"],"names":[],"mappings":";AACA,OAAO,KAAK,OAAO,MAAM,YAAY,CAAC;AACtC,OAAO,yBAAyB,CAAC;AACjC,OAAO,EAAE,aAAa,EAAE,MAAM,UAAU,CAAC;AA6BzC,wBAAgB,mBAAmB,CAAC,MAAM,EAAE,aAAa,EAAE,MAAM,CAAC,EAAE,OAAO,CAAC,mBAAmB,GAAG,IAAI,CAoBrG"}

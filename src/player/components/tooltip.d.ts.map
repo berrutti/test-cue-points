@@ -1,0 +1,1 @@
+{"version":3,"file":"tooltip.d.ts","sourceRoot":"","sources":["../../src/components/tooltip.tsx"],"names":[],"mappings":"AAAA,OAAO,KAAK,EAAE,SAAS,EAAE,MAAM,OAAO,CAAC;AAIvC,aAAK,KAAK,GAAG;IACX,QAAQ,CAAC,EAAE,SAAS,CAAC;CACtB,CAAC;AAEF,wBAAgB,OAAO,CAAC,EAAE,QAAQ,EAAE,EAAE,KAAK,eAE1C"}
