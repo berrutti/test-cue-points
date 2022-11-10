@@ -4,6 +4,7 @@ import { Player } from "./player/index";
 import styles from "./testing.module.css";
 
 export default function App() {
+  const [print, setPrint] = useState([]);
   console.log("mounted");
   const config = useMemo(
     () => ({
@@ -21,6 +22,7 @@ export default function App() {
         window.playerApi = api;
         window.playerApi.addEventListener("timedmetadata", (e) => {
           console.log("This is the metadata", e);
+          setPrint((p) => p.push(e));
         });
       },
     }),
@@ -32,6 +34,11 @@ export default function App() {
       <h1>HLS Live</h1>
       <Player {...config} />
       <div className={styles.controlsWrapper}></div>
+      <ul>
+        {print.map((el, index) => (
+          <li key={index}>{el}</li>
+        ))}
+      </ul>
     </>
   );
 }
