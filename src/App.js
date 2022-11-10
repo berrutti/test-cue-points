@@ -22,7 +22,7 @@ export default function App() {
         window.playerApi = api;
         window.playerApi.addEventListener("timedmetadata", (e) => {
           console.log("This is the metadata", e);
-          setPrint((p) => p.push(e));
+          setPrint(oldArray => [...oldArray, e]);
         });
       },
     }),
