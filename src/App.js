@@ -2,6 +2,10 @@ import { useMemo, useState } from "react";
 import { Player } from "./player/index";
 
 import styles from "./testing.module.css";
+setInterval(() => {
+  console.log(window?.player?.textTracks());
+  console.log(window?.player?.remoteTextTracks());
+}, 1000);
 
 export default function App() {
   const [print, setPrint] = useState([]);
@@ -22,7 +26,7 @@ export default function App() {
         window.playerApi = api;
         window.playerApi.addEventListener("timedmetadata", (e) => {
           console.log("This is the metadata", e);
-          setPrint(oldArray => [...oldArray, JSON.stringify(e)]);
+          setPrint((oldArray) => [...oldArray, JSON.stringify(e)]);
         });
       },
     }),
