@@ -1,4 +1,5 @@
-import { i18n, TFunction } from 'i18next';
+import { i18n } from 'i18next';
+import type { TFunction } from 'react-i18next';
 import { MenuOption, QualityLevelOption, SubtitleOption } from '../user-interface';
 export declare function getQualityMenuOption(t: TFunction<'translation', undefined>, qualityOption: QualityLevelOption | undefined): MenuOption;
 export declare function getQualityMenuOptions(t: TFunction<'translation', undefined>, qualities: QualityLevelOption[], autoQualityOptionAvailable?: boolean): MenuOption[];

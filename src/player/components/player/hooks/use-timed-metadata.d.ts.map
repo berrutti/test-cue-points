@@ -1,1 +1,1 @@
-{"version":3,"file":"use-timed-metadata.d.ts","sourceRoot":"","sources":["../../../../src/components/player/hooks/use-timed-metadata.ts"],"names":[],"mappings":"AAAA,OAAO,KAAK,EAAE,aAAa,EAAE,MAAM,UAAU,CAAC;AAQ9C,eAAO,MAAM,gBAAgB,WAAY,aAAa,SA6ErD,CAAC"}
+{"version":3,"file":"use-timed-metadata.d.ts","sourceRoot":"","sources":["../../../../src/components/player/hooks/use-timed-metadata.ts"],"names":[],"mappings":"AAAA,OAAO,KAAK,EAAE,aAAa,EAAE,MAAM,UAAU,CAAC;AAQ9C,eAAO,MAAM,gBAAgB,WAAY,aAAa,SAsFrD,CAAC"}
