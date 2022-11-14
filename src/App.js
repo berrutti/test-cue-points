@@ -2,10 +2,6 @@ import { useMemo, useState } from "react";
 import { Player } from "./player/index";
 
 import styles from "./testing.module.css";
-setInterval(() => {
-  console.log(window?.player?.textTracks().length);
-  console.log(window?.player?.remoteTextTracks().length);
-}, 1000);
 
 export default function App() {
   const [print, setPrint] = useState([]);
