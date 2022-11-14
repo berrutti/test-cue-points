@@ -14,7 +14,7 @@ export default function App() {
       sources: {
         hls: {
           type: "application/vnd.apple.mpegurl",
-          src: "https://wbc-live-2-cdn.edge-cdn.net/mi-webcast-origin/ngrp:636a7540c23a403c196bfe93_en_all/master.m3u8",
+          src: "https://wbc-live-cdn.edge-cdn.net/mi-webcast-origin/ngrp:63726090f88b23088e6b8d84_en_all/master.m3u8",
         },
       },
       onReady: (api) => {
